@@ -1,0 +1,6 @@
+[submodule "3K04-pacemaker-firmware"]
+	path = 3K04-pacemaker-firmware
+	url = git@github.com:emcauliffe/3K04-pacemaker-firmware.git
+[submodule "3K04GUI"]
+	path = 3K04GUI
+	url = git@github.com:Sawoud/3K04GUI.git
